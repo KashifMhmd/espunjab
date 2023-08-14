@@ -24,7 +24,7 @@ app.use('/api-docs', require('_helpers/swagger'));
 
 // global error handler
 app.use(errorHandler);
-app.use('/wel',(req,res)=>{
+app.use('/',(req,res)=>{
     res.send('welcom')
 })
 // start server
