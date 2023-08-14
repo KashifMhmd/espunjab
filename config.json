@@ -1,0 +1,13 @@
+﻿{
+    "connectionString": "mongodb+srv://ahmadwork746:ahmad746@estamp.sokitvw.mongodb.net/?retryWrites=true&w=majority",
+    "secret": "secret",
+    "emailFrom": "test@test.com",
+    "smtpOptions": {
+        "host": "[ENTER YOUR OWN SMTP OPTIONS]",
+        "port": 587,
+        "auth": {
+            "user": "",
+            "pass": ""
+        }
+    }
+}
