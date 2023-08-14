@@ -4,8 +4,9 @@
     "description": "",
     "author": "Hamza Jamil",
     "license": "MIT",
+    "main": "server.js"
     "scripts": {
-        "start": "node ./server.js",
+        "start": "node server.js",
         "start:dev": "nodemon ./server.js"
     },
     "dependencies": {
